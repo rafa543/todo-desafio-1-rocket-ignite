@@ -17,15 +17,7 @@
   
 </p>
 
-<!-- Indice-->
-<p align="center">
- <a href="#-sobre-o-projeto">Sobre</a> •
- <a href="#-Funcionalidades">Funcionalidades</a> • 
- <a href="#-conceitos">Conceitos</a> • 
- <a href="#-Preview">Preview</a> • 
- <a href="#-Layout">Layout</a> •  
- <a href="#-como-executar-o-projeto">Executando</a> • 
- <a href="#-tecnologias">Tecnologias</a> • 
+
  
 </p>
 
@@ -59,7 +51,7 @@ implementar uma aplicação de lembrete de tarefas, onde foi trinado um pouco ma
 
 ## 🎨 Layout
 
-![mobile](https://github.com/rafa543/SavePass-Ignite-rocketseat/blob/main/assets/layout.png)
+![mobile](https://github.com/rafa543/todo-desafio-1-rocket-ignite/blob/main/src/assets/Layout.png)
 
 <!--Running session-->
 
@@ -68,13 +60,13 @@ implementar uma aplicação de lembrete de tarefas, onde foi trinado um pouco ma
 ```bash
 
 # Clone o repositório
-git clone https://github.com/rafa543/SavePass-Ignite-rocketseat.git
+git clone https://github.com/rafa543/todo-desafio-1-rocket-ignite.git
 
 # Instale as dependências
-npm install
+npm install ou yarn
 
 # Execute o projeto
-npm start
+yarn start e depois um yarn android
 
 ```
 
